@@ -42,4 +42,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+
+  /* stick footer to bottom of screen */
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
