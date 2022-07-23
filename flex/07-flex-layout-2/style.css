@@ -37,3 +37,9 @@ body {
   align-items: center;
   padding-left: 16px;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
