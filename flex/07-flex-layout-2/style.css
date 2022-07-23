@@ -29,6 +29,10 @@ body {
 
 /* edit */
 
+* {
+  box-sizing: border-box;
+}
+
 .header {
   font-size: 32px;
   font-weight: 900;
